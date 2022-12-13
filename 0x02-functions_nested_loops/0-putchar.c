@@ -1,8 +1,9 @@
-#include <stdio.h>
+#include "main.h"
 /**
-*Main Checkin the diiscription
-*Description: prints _putchar, followed by a new line.
-*Return 0.
+*_putchar - writes the character c to stdout
+*@c: The character to print
+*Return: On success 0.
+*On error, -1 is returned, and errno is set appropriately.
 */
 
 int _putchar(char c)
