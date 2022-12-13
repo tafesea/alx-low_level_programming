@@ -20,7 +20,7 @@ _putchar('\n');
 }
 /**
 *putformat - formatted characters to output
-*@n: number to format
+*Description: formatted characters to output
 *Return: nothing
 */
 void putformat(int n)
